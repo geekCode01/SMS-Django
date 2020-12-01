@@ -1,3 +1,3 @@
 # SMS-Django
 
-### Send and Recieve SMS
+### Send and Receive SMS
